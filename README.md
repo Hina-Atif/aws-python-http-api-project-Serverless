@@ -19,32 +19,22 @@ It provides a lightweight, scalable, and cost-efficient backend solution for han
 ### 🏗️ Development & Deployment
 Documentation of the project lifecycle from CLI initialization to successful cloud deployment.
 
-| 1. Framework Initialization | 2. Python Backend Logic | 3. Deployment Success |
-| :---: | :---: | :---: |
-| ![Init](screenshots/01-project-init.jpeg) | ![Code](screenshots/02-backend-code.jpeg) | ![Deploy](screenshots/03-deploy-success.png) |
+## 🚀 Deployment Screenshots
 
----
-
-### ☁️ AWS Cloud Infrastructure
-Visual proof of the serverless resources provisioned within the AWS Console.
-
-| 4. CloudFormation Stack | 5. Resource List | 6. Lambda Console |
-| :---: | :---: | :---: |
-| ![Stack](screenshots/04-stack-overview.jpeg) | ![Resources](screenshots/05-stack-resources.png) | ![Lambda](screenshots/06-lambda-functions.png) |
-
----
-
-### 📡 Monitoring & Testing
-Configuration of API triggers and cross-platform verification (Desktop & Mobile).
-
-| 7. API Gateway Trigger | 8. CloudWatch Logs |
+### Infrastructure & Compute
+| CloudFormation Stack | Lambda Functions |
 | :---: | :---: |
-| ![Gateway](screenshots/07-api-gateway.png) | ![Logs](screenshots/08-cloudwatch-logs.png) |
+| ![CloudFormation Stack](screenshots/05-cloudformation-stack.png) | ![Lambda Functions](screenshots/04-aws-lambda-list.png) |
 
-| 9. Desktop Browser Test | 10. Mobile Device Verification |
+### Networking & Monitoring
+| API Gateway Triggers | CloudWatch Logs |
 | :---: | :---: |
-| ![Desktop](screenshots/09-desktop-test.jpeg) | ![Mobile](screenshots/10-mobile-output.jpeg) |
+| ![API Gateway](screenshots/07-api-gateway-trigger.png) | ![CloudWatch Logs](screenshots/06-cloudwatch-logs.png) |
 
+### Cross-Platform Verification
+| Desktop API Output | Mobile API Output |
+| :---: | :---: |
+| ![Desktop Test](screenshots/08-web-response.jpeg) | ![Mobile Test](screenshots/09-mobile-response.png) |
 ---
 
 ## Tech Stack & Tools
