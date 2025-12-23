@@ -15,10 +15,22 @@ It provides a lightweight, scalable, and cost-efficient backend solution for han
 - Built-in monitoring via AWS CloudWatch
 
   
+## 🖼️ Project Gallery
+
+### 🏗️ Development & Deployment
+Documentation of the project lifecycle from CLI initialization to successful cloud deployment.
 
 
-![02-python-logic](https://github.com/user-attachments/assets/3218d1fc-7b27-4f1c-8211-8736ef5cb5f5)
-
+![WhatsApp Image 2025-12-22 at 8 27 36 PM](https://github.com/user-attachments/assets/c3024af5-8aa7-4727-827d-d789500380e8)
+![09-web-response2](https://github.com/user-attachments/assets/7cf7650b-af5b-40ff-9a11-7b9113ad5c3f)
+![08-web-response](https://github.com/user-attachments/assets/d4e2607a-9f82-46e4-9da4-ac2355959ead)
+![07-api-gateway-trigger png](https://github.com/user-attachments/assets/b92bf11f-df5e-46cb-bbf3-cbadfb5d650f)
+![06-cloudwatch-logs png](https://github.com/user-attachments/assets/2bb8fc57-aaa6-4d18-8a63-aa6b729a3836)
+![05-cloudformation-stack png](https://github.com/user-attachments/assets/6e252d4d-fb5b-4352-b3c8-afa9c8bc8d71)
+![04-aws-lambda-list png](https://github.com/user-attachments/assets/ee27f764-4345-46bd-8a18-17c7a2514b9e)
+![03-deploy-success png](https://github.com/user-attachments/assets/b0712c4f-036c-4a79-9f95-2a9f3d960351)
+![02-python-logic](https://github.com/user-attachments/assets/7a13cabc-5707-4448-87a4-7c552442a26a)
+![01-project-init](https://github.com/user-attachments/assets/223e7457-3d59-4060-8572-eeb55133f725)
 
 ## Tech Stack & Tools
 - **Programming Language:** Python 3.12
