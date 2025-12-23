@@ -14,8 +14,11 @@ It provides a lightweight, scalable, and cost-efficient backend solution for han
 - Easy to deploy and maintain
 - Built-in monitoring via AWS CloudWatch
 
+  
 
----
+
+![02-python-logic](https://github.com/user-attachments/assets/3218d1fc-7b27-4f1c-8211-8736ef5cb5f5)
+
 
 ## Tech Stack & Tools
 - **Programming Language:** Python 3.12
