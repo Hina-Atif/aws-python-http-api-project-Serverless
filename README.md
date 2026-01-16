@@ -1,4 +1,4 @@
-# aws-python-http-api-project
+# aws-python-http-api-project-Serverless
 AWS Python HTTP API Project using Serverless Framework for scalable, cloud-native serverless applications
 
 **Owner:** Hina Atif
